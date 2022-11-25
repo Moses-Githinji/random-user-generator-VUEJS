@@ -12,7 +12,7 @@ body {
 #app {
   width: 400px;
   height: 100vh;
-  margin: auto;
+  margin: 0 auto;
   text-align: center;
   display: flex;
   flex-direction: column;
